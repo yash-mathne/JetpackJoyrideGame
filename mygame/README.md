@@ -1,11 +1,7 @@
-Graphics Boilerplate Code
+Jetpack Joyride Game
 =========================
-This is boilerplate code for the assignments which might be helpful.
-
-Adapted From : https://github.com/yash412/JetpackJoyrideGame.git
 
 Instructions:
-
 mkdir build
 cd build
 cmake ..
